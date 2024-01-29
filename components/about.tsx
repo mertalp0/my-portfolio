@@ -20,7 +20,7 @@ export default function About() {
       <SectionHeading>Hakkımda</SectionHeading>
       <p className="mb-3">
         
-        <span className="font-medium">Merhaba, ben Mert Alp. Bilgisayar Mühendisliği 4. sınıf öğrencisi olarak Temmuz ayında mezun olacağım. Kariyerime mobil geliştirici olarak devam etmekteyim. Flutter teknolojisiyle 3 yıldır, Swift ile 1.5 yıldır çalışmalar yürütüyor ve sürekli olarak kendimi geliştiriyorum. Bu süreçte projeler geliştirip deneyimlerimi GitHub hesabımda paylaşıyorum. Daha önce Jurnalle&apos;de Mobile Developer olarak görev aldım, şimdi ise kurucularından biri olduğum Yuni projesinde SwiftUI ile iOS geliştirme yapmaktayım. Ayrıca Figma kullanımı, GitHub, Agile Metodoloji gibi konularda da bilgi ve deneyim sahibiyim.</span> 
+        <span className="font-medium">Merhaba, ben Mert Alp. Bilgisayar Mühendisliği 4. sınıf öğrencisiyim, Temmuz ayında mezun olacağım. Kariyerime mobil geliştirici olarak devam etmekteyim. Flutter teknolojisiyle 3 yıldır, Swift ile 1.5 yıldır çalışmalar yürütüyor ve sürekli olarak kendimi geliştiriyorum. Bu süreçte projeler geliştirip deneyimlerimi GitHub hesabımda paylaşıyorum. Daha önce Jurnalle&apos;de Mobile Developer olarak görev aldım, şimdi ise kurucularından biri olduğum Yuni projesinde SwiftUI ile iOS geliştirme yapmaktayım. Ayrıca Figma kullanımı, GitHub, Agile Metodoloji gibi konularda da bilgi ve deneyim sahibiyim.</span> 
 
         <span className="font-medium">
         
