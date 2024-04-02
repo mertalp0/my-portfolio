@@ -45,7 +45,7 @@ export const experiencesData = [
     description:
     "Yuni'de kurucu ortak olarak görev yapıyorum. Figma üzerinde tasarımlar oluşturarak kullanıcı deneyimini planladım ve bu tasarımları Firebase ve Swift UI kullanarak kodladım. Ayrıca, takım çalışması ve GitHub kullanımı konularında da önemli deneyimler kazandım.  ",
     icon: React.createElement(CgWorkAlt),
-    date: "2023 Eylül - Halen | 5 ay",
+    date: "2023 Eylül - 2023 Mart | 6 ay",
   },
   {
     title: "Mobile Developer",
