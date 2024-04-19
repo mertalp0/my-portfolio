@@ -62,10 +62,10 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Merhaba, Ben Mert Alp.</span> Bilgisayar{" "}
-        <span className="font-bold">Mühendisliği 4.</span>sınıf{" "}
-        <span className="font-bold">öğrencisiyim.</span> Mobil uygulama geliştirme
-        ile <span className="italic">yoğun olarak</span> ilgileniyorum.{" "}
+        <span className="font-bold">Merhaba, Ben Mert Alp. Bilgisayar</span> {" "}
+        <span className="font-bold">Mühendisliği 4.sınıf</span>{" "}
+        <span className="font-bold">öğrencisiyim.</span>  <span className="font-bold">Mobil uygulama geliştirme
+        ile yoğun olarak ilgileniyorum.</span> {" "}
         <span className="underline"></span>
       </motion.h1>
 
