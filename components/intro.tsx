@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://media.licdn.com/dms/image/D4D03AQEzEN5wDD_hdA/profile-displayphoto-shrink_800_800/0/1679918082214?e=1711584000&v=beta&t=NtSiggfUGsfCVgYIhkZtnCuPGdeQez__RlvPZe65NO8"
+               src="https://media.licdn.com/dms/image/D4D03AQEzEN5wDD_hdA/profile-displayphoto-shrink_800_800/0/1679918082214?e=1718841600&v=beta&t=VFEEg8T4RZWnBmSL5KSoF6G0yEZzkEk4ddmUYlASVRQ"
               alt="Mert image"
               width="192"
               height="192"
